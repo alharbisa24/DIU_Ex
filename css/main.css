@@ -213,7 +213,6 @@ nav ul li a:hover:before {
     transition: all 0.5s ease-in-out;
 }
 
-/* Final state: visible and in position */
 .swap-up.swap-up-active {
     opacity: 1;
     transform: translateY(0);
@@ -225,6 +224,6 @@ nav ul li a:hover:before {
 }
 @media only screen and (max-width: 600px) {
     .cardHead {
-      font-size: 2em; /* Smaller size for screens 600px wide or less */
+      font-size: 3em; 
     }
   }
