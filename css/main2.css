@@ -224,6 +224,6 @@ nav ul li a:hover:before {
 }
 @media only screen and (max-width: 600px) {
     .cardHead {
-      font-size: 3em; 
+      font-size: 2.2em; 
     }
   }
